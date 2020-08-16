@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Steve Jobs
 
 - What I'm bopping to this week:
+
 [**Cut 'Em In**](https://open.spotify.com/track/1Y1pwv97zAFL5LM2ncjSi4?si=p3FCeDGqQcGug8B6CW-Pjw) by Anderson .Paak 
 
 
