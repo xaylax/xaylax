@@ -5,9 +5,9 @@ I'm currently looking for Summer 2021 coops in fullstack engineering, backend en
 
 - Mindset for the week: 💡
 
->"Stay foolish, stay hungry"
+>"There is more to life than increasing its speed." 
 
-~ Steve Jobs
+~ Mahatma Gandhi
 
 - What I'm bopping to this week: 🎵
 
