@@ -15,8 +15,4 @@ I'm currently looking for Summer 2021 coops in fullstack engineering, backend en
 
 
 
-- How to reach me
-
-
-
 
