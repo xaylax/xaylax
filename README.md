@@ -10,8 +10,8 @@ Welcome to my little corner of the internet where I work on bettering my craft!
 
 - Mindset for the week:
 
-"Stay foolish, stay hungry"
-- Steve Jobs
+>"Stay foolish, stay hungry"
+Steve Jobs
 
 - What I'm bopping to this week:
 
