@@ -3,6 +3,9 @@ Welcome to my little corner of the internet where I work on bettering my craft!
 
 I'm currently looking for Summer 2021 coops in **fullstack engineering, backend engineering or machine/deep learning** 🤖
 
+![Alt Text](https://media.giphy.com/media/35GLMzlUfq7iPwaSzi/giphy.gif)
+
+
 - Mindset for the week: 💡
 
    >"There is more to life than increasing its speed." 
@@ -18,7 +21,5 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
   
     Finished my first year of university!
     
-    
-![Alt Text](https://media.giphy.com/media/35GLMzlUfq7iPwaSzi/giphy.gif)
 
  
