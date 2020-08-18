@@ -1,4 +1,4 @@
-## Week I- Aug 17-23
+## Week i- Aug 17-23
 
 - Mindset for the week: 💡
 
