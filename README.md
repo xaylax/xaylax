@@ -3,7 +3,7 @@ Welcome to my little corner of the internet where I work on bettering my craft!
 
 I'm currently looking for Summer 2021 coops in **fullstack engineering, backend engineering or machine/deep learning** 🤖
 
-    <img src="https://media.giphy.com/media/35GLMzlUfq7iPwaSzi/giphy.gif"/>
+    ![Alt Text](https://media.giphy.com/media/35GLMzlUfq7iPwaSzi/giphy.gif)
 
 
 - Mindset for the week: 💡
