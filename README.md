@@ -1,7 +1,7 @@
 ### Hello fellow Githubber! 😊
 Welcome to my little corner of the internet where I work on bettering my craft! 
 
-I'm currently looking for Summer 2021 coops in fullstack engineering, backend engineering or machine/deep learning 🤖
+I'm currently looking for Summer 2021 coops in **fullstack engineering, backend engineering or machine/deep learning **🤖
 
 
 - Mindset for the week: 💡
