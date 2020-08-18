@@ -11,10 +11,10 @@ I'm currently looking for Summer 2021 coops in fullstack engineering, backend en
 
 - What I'm bopping to this week: 🎵
 
-  [**Cut 'Em In**](https://open.spotify.com/track/1Y1pwv97zAFL5LM2ncjSi4?si=p3FCeDGqQcGug8B6CW-Pjw) by Anderson .Paak 
+ [**Cut 'Em In**](https://open.spotify.com/track/1Y1pwv97zAFL5LM2ncjSi4?si=p3FCeDGqQcGug8B6CW-Pjw) by Anderson .Paak 
   
   
-  - A cool think I did this week: ✨
+ - A cool think I did this week: ✨
   
   Finished my first year of university!
 
