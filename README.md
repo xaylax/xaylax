@@ -18,6 +18,11 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
  - A cool think I did this week: ✨
   
     Finished my first year of university!
+    
+     - gif of the week: 😛
+
+    <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 
 
 
