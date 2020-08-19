@@ -11,12 +11,12 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
 
 - What I'm bopping to this week: 🎵
 
-   [**Cut 'Em In**](https://open.spotify.com/track/1Y1pwv97zAFL5LM2ncjSi4?si=p3FCeDGqQcGug8B6CW-Pjw) by Anderson .Paak 
+   [**Starman**](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq?si=VSCrdSsmRECS25scqW4oGw) by David Bowie 
   
   
  - A cool think I did this week: ✨
   
-    Finished my first year of university!
+    [Created my first Machine Learning project](https://github.com/xaylax/Predicting-House-Prices
     
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
