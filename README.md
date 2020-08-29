@@ -14,7 +14,7 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
    [**Starman**](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq?si=VSCrdSsmRECS25scqW4oGw) by David Bowie 
   
   
- - A cool think I did last week: ✨
+ - A cool think I did this week: ✨
   
     [Created my first Machine Learning project](https://github.com/xaylax/Predicting-House-Prices)
     
