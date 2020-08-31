@@ -13,7 +13,7 @@
   
  - A cool thing I did this week: ✨
   
-  Finished my first year of university!
+    [Created my first Machine Learning project](https://github.com/xaylax/Predicting-House-Prices)
   
   *******************************************************************************************************************************************************************************
 ## Week ii- Aug 24-30
@@ -31,4 +31,6 @@
   
  - A cool thing I did this week: ✨
   
-    [Created my first Machine Learning project](https://github.com/xaylax/Predicting-House-Prices)
+    Deepened my knowledge in all things Angular through the completion of two projects!
+    https://github.com/xaylax/hero-encyclopedia
+    https://github.com/xaylax/shoopify)
