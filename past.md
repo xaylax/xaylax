@@ -1,6 +1,6 @@
 ## Week i- Aug 17-23
 
-- Mindset for the week: 💡
+- Quote of the week: 💡
 
 >"There is more to life than increasing its speed." 
 
@@ -17,3 +17,18 @@
   
   *******************************************************************************************************************************************************************************
 ## Week ii- Aug 24-30
+
+- Quote of the week: 💡
+
+   >“Insanity is contagious.”
+
+   ~ Joseph Heller, Catch-22 (one of my favourite books!)
+
+- What I'm bopping to this week: 🎵
+
+   [**Starman**](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq?si=VSCrdSsmRECS25scqW4oGw) by David Bowie 
+  
+  
+ - A cool think I did this week: ✨
+  
+    [Created my first Machine Learning project](https://github.com/xaylax/Predicting-House-Prices)
