@@ -17,9 +17,8 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
  - A cool think I did this week: ✨
   
     [Created my first Machine Learning project](https://github.com/xaylax/Predicting-House-Prices)
-    
-- See past weeks [here](https://github.com/xaylax/xaylax/blob/master/past.md)
-      
+          
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
 
+- See past weeks [here](https://github.com/xaylax/xaylax/blob/master/past.md)
