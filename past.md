@@ -33,5 +33,5 @@
   
     Deepened my knowledge in all things Angular through the completion of two projects!
     
-    https://github.com/xaylax/hero-encyclopedia
-    https://github.com/xaylax/shoopify)
+    - https://github.com/xaylax/hero-encyclopedia
+    - https://github.com/xaylax/shoopify
