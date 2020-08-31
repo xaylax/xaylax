@@ -14,7 +14,7 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
    [**Dynamite**](https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE?si=spfEVe7dQTmZ6zAf0h4LYg) by BTS 
   
   
- - A cool think I did this week: ✨
+ - A cool thing I did this week: ✨
   
     Started my 2nd coop term!
           
