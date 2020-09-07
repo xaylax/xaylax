@@ -2,9 +2,9 @@
 
 - Quote of the week: 💡
 
->"There is more to life than increasing its speed." 
+  >"There is more to life than increasing its speed." 
 
-~ Mahatma Gandhi
+  ~ Mahatma Gandhi
 
 - What I'm bopping to this week: 🎵
 
@@ -20,7 +20,7 @@
 
 - Quote of the week: 💡
 
- >“Insanity is contagious.”
+   >“Insanity is contagious.”
 
    ~ Joseph Heller, Catch-22 (one of my favourite books!)
 
