@@ -5,18 +5,18 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
 
 - Quote of the week: 💡
 
-   >“Every new beginning comes from some other beginning’s end.”
+   >“I just sit at a typewriter and curse a bit.”
 
-   ~ Seneca
+   ~ P.G Wodehouse
 
 - What I'm bopping to this week: 🎵
 
-   [**Dynamite**](https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE?si=spfEVe7dQTmZ6zAf0h4LYg) by BTS 
+   [**Grace Kelly**](https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR?si=Nb6w012OS1K003c8HuAGvQ) by MIKA 
   
   
  - A cool thing I did this week: ✨
   
-    Started my 2nd coop term!
+    Started reading again after a super long hiatus
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
