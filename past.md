@@ -17,9 +17,10 @@
   
 ## Week ii- Aug 24-30
 
+
 - Quote of the week: 💡
 
-   >“Insanity is contagious.”
+ >“Insanity is contagious.”
 
    ~ Joseph Heller, Catch-22 (one of my favourite books!)
 
