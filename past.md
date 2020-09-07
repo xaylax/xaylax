@@ -35,3 +35,21 @@
     
     - https://github.com/xaylax/hero-encyclopedia
     - https://github.com/xaylax/shoopify
+    
+      *******************************************************************************************************************************************************************************
+## Week iii- Aug 31-Sept 6
+    
+    - Quote of the week: 💡
+
+   >“Every new beginning comes from some other beginning’s end.”
+
+   ~ Seneca
+
+- What I'm bopping to this week: 🎵
+
+   [**Dynamite**](https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE?si=spfEVe7dQTmZ6zAf0h4LYg) by BTS 
+  
+  
+ - A cool thing I did this week: ✨
+  
+    Started my 2nd coop term!
