@@ -16,7 +16,7 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
   
  - A cool thing I did this week: ✨
   
-    Finally started my fall term reading list
+    Started my Sept-Dec book list!!
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
