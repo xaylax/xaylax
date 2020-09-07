@@ -39,7 +39,7 @@
    
 ## Week iii- Aug 31-Sept 6
     
-    - Quote of the week: 💡
+ - Quote of the week: 💡
 
    >“Every new beginning comes from some other beginning’s end.”
 
