@@ -15,7 +15,6 @@
   
     [Created my first Machine Learning project](https://github.com/xaylax/Predicting-House-Prices)
   
-  *******************************************************************************************************************************************************************************
 ## Week ii- Aug 24-30
 
 - Quote of the week: 💡
@@ -36,7 +35,7 @@
     - https://github.com/xaylax/hero-encyclopedia
     - https://github.com/xaylax/shoopify
     
-       *********************************************************************************************************************************************************************************
+   
 ## Week iii- Aug 31-Sept 6
     
     - Quote of the week: 💡
