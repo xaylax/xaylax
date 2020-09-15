@@ -53,3 +53,21 @@
  - A cool thing I did this week: ✨
   
     Started my 2nd coop term!
+    
+    
+ ## Week iv- Sept 7-Sept 13
+    
+  - Quote of the week: 💡
+
+   >“I just sit at a typewriter and curse a bit.”
+
+   ~ P.G Wodehouse
+
+- What I'm bopping to this week: 🎵
+
+   [**Grace Kelly**](https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR?si=Nb6w012OS1K003c8HuAGvQ) by MIKA 
+  
+  
+ - A cool thing I did this week: ✨
+  
+    Started my Sept-Dec book list!!
