@@ -5,18 +5,19 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
 
 - Quote of the week: 💡
 
-   >“I just sit at a typewriter and curse a bit.”
+   >“Intelligence is like a four-wheel drive. It allows you to get stuck in more remote places.”
 
-   ~ P.G Wodehouse
+   ~ Garrison Keillor
+   
 
 - What I'm bopping to this week: 🎵
 
-   [**Grace Kelly**](https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR?si=Nb6w012OS1K003c8HuAGvQ) by MIKA 
+   [**I Got You (Always and Forever**](https://open.spotify.com/track/7fCkbh4Yu5XjFzdsVpEpW3?si=YlqzhAjsTJy_3UbPA2OPFw) by Chance the Rapper 
   
   
  - A cool thing I did this week: ✨
   
-    Started my Sept-Dec book list!!
+    Started a 2-month long *Intro to Conversational Japanese* Course
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
