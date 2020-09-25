@@ -71,3 +71,21 @@
  - A cool thing I did this week: ✨
   
     Started my Sept-Dec book list!!
+    
+ ## Week v- Sept 14-20
+ 
+ - Quote of the week: 💡
+
+   >“Intelligence is like a four-wheel drive. It allows you to get stuck in more remote places.”
+
+   ~ Garrison Keillor
+   
+
+- What I'm bopping to this week: 🎵
+
+   [**I Got You (Always and Forever)**](https://open.spotify.com/track/7fCkbh4Yu5XjFzdsVpEpW3?si=YlqzhAjsTJy_3UbPA2OPFw) by Chance the Rapper 
+  
+  
+ - A cool thing I did this week: ✨
+  
+    Started a 2-month long *Intro to Conversational Japanese* Course 🗾🎌🎎
