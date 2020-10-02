@@ -5,19 +5,19 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
 
 - Quote of the week: 💡
 
-   >“You see things; and you say, ‘Why?' But I dream things that never were; and I say, ‘Why not?'”
+   >“necessity is the mother of invention”
 
-   ~ George Bernard Shaw
+   ~ Plato
    
 
 - What I'm bopping to this week: 🎵
 
-   [**Arc-en-ciel**](https://open.spotify.com/track/4Xxm7QcK7J6D4T0573LleL?si=wg5pt4NqQTOtfZ_OuULSlg) by Polo & Pan
+   [**The March of the Black Queen**](https://open.spotify.com/track/4ECtXB8SiKLNGGhbzqIzBq?si=pU97XR-bR9eC9WFhLBPUpg) by Queen
   
   
  - A cool thing I did this week: ✨
   
-    Got accepted to join one of my favourite volunteer organizations 🤗
+    Started running more seriously again 🏃‍♀️💨
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
