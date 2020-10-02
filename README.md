@@ -17,7 +17,7 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
   
  - A cool thing I did this week: ✨
   
-    Started running more seriously again 🏃‍♀️💨
+    Finished the first module of an Intro to Python course I've been meaning to take! 🐍💗 (am I a #pythonista yet?!)
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
