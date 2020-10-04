@@ -107,3 +107,22 @@
   - A cool thing I did this week: ✨
   
     Got accepted to join one of my favourite volunteer organizations 🤗
+    
+    
+ ## Week vii- Sept 28- Oct 4
+ 
+ - Quote of the week: 💡
+
+   >“necessity is the mother of invention”
+
+   ~ Plato
+   
+
+- What I'm bopping to this week: 🎵
+
+   [**The March of the Black Queen**](https://open.spotify.com/track/4ECtXB8SiKLNGGhbzqIzBq?si=pU97XR-bR9eC9WFhLBPUpg) by Queen
+  
+  
+ - A cool thing I did this week: ✨
+  
+    Finished Week 1 of an Intro to Python course I've been meaning to take! 🐍💗 (am I a #pythonista yet?!)
