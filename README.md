@@ -5,19 +5,18 @@ I'm currently looking for Summer 2021 coops in **fullstack engineering, backend 
 
 - Quote of the week: 💡
 
-   >“necessity is the mother of invention”
+   >“I don’t believe in astrology; I’m a Sagittarius and we’re skeptical.”
 
-   ~ Plato
+   ~ Arthur C. Clarke
    
-
 - What I'm bopping to this week: 🎵
 
-   [**The March of the Black Queen**](https://open.spotify.com/track/4ECtXB8SiKLNGGhbzqIzBq?si=pU97XR-bR9eC9WFhLBPUpg) by Queen
+   [**Mad as Rabbits**](https://open.spotify.com/track/3pfUrqXf1WRxLjpxdnLjfR?si=G9HXKspJRSaHDkwsrI9JUQ) by Panic! At the Disco
   
   
  - A cool thing I did this week: ✨
   
-    Finished Week 1 of an Intro to Python course I've been meaning to take! 🐍💗 (am I a #pythonista yet?!)
+    Started a really fun project 🐶🐶🐶 (number 1 leetcode procrastinator right here) 
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
