@@ -127,7 +127,7 @@
   
     Finished Week 1 of an Intro to Python course I've been meaning to take! 🐍💗 (am I a #pythonista yet?!)
     
-  ## Week vii- Sept 28- Oct 4 
+  ## Week viii- Oct 5- Oct 11
     
   - Quote of the week: 💡
 
