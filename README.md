@@ -5,18 +5,18 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“I don’t believe in astrology; I’m a Sagittarius and we’re skeptical.”
+   >“To listen is an effort, and just to hear is no merit. A duck hears also.”
 
-   ~ Arthur C. Clarke
+   ~ Igor Stravinsky
    
 - What I'm bopping to this week: 🎵
 
-   [**Mad as Rabbits**](https://open.spotify.com/track/3pfUrqXf1WRxLjpxdnLjfR?si=G9HXKspJRSaHDkwsrI9JUQ) by Panic! At the Disco
+   [**Uptown Girl**](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh?si=h31bGAZdSpqTiI5e3mP73g) by Billy Joel
   
   
  - A cool thing I did this week: ✨
   
-    Started a really fun project 🐶🐶🐶 (number 1 leetcode procrastinator right here) 
+    This week was pretty quiet- ate some really good ice cream?
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
