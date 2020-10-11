@@ -126,3 +126,20 @@
  - A cool thing I did this week: ✨
   
     Finished Week 1 of an Intro to Python course I've been meaning to take! 🐍💗 (am I a #pythonista yet?!)
+    
+  ## Week vii- Sept 28- Oct 4 
+    
+  - Quote of the week: 💡
+
+   >“I don’t believe in astrology; I’m a Sagittarius and we’re skeptical.”
+
+   ~ Arthur C. Clarke
+   
+- What I'm bopping to this week: 🎵
+
+   [**Mad as Rabbits**](https://open.spotify.com/track/3pfUrqXf1WRxLjpxdnLjfR?si=G9HXKspJRSaHDkwsrI9JUQ) by Panic! At the Disco
+  
+  
+ - A cool thing I did this week: ✨
+  
+    Started a really fun project 🐶🐶🐶 (number 1 leetcode procrastinator right here) 
