@@ -13,10 +13,9 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
    [**Uptown Girl**](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh?si=h31bGAZdSpqTiI5e3mP73g) by Billy Joel
   
-  
  - A cool thing I did this week: ✨
   
-    This week was pretty quiet- ate some really good ice cream?
+    Starting contributing to open souuuuuuuuuuuuuuuuuuuurce!
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
