@@ -15,8 +15,8 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
   
  - A cool thing I did this week: ✨
   
-    - Starting contributing to open source to help improve my coding skills and help some awesome orgs!
-    - I also ate some really good ice cream this week, so that merits being in this section for this week too!
+    - Starting contributing to open source to help improve my coding skills and help some awesome orgs 🤝
+    - I also ate some really good ice cream this week, so that merits being in this section for this week too 🍨
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
