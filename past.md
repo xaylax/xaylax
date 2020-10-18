@@ -143,3 +143,20 @@
  - A cool thing I did this week: ✨
   
     Started a really fun project 🐶🐶🐶 (number 1 leetcode procrastinator right here) 
+    
+  ## Week ix- Oct 12- Oct 18
+   
+ - Quote of the week: 💡
+
+   >“To listen is an effort, and just to hear is no merit. A duck hears also.”
+
+   ~ Igor Stravinsky
+   
+- What I'm bopping to this week: 🎵
+
+   [**Uptown Girl**](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh?si=h31bGAZdSpqTiI5e3mP73g) by Billy Joel
+  
+ - A cool thing I did this week: ✨
+  
+    - Starting contributing to open source to help improve my coding skills and help some awesome orgs 🤝
+    - I also ate some really good ice cream, so that merits being in this section for this week too 🍨
