@@ -5,18 +5,17 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“To listen is an effort, and just to hear is no merit. A duck hears also.”
+   >“Autumn leaves don't fall, they fly. They take their time and wander on this their only chance to soar.”
 
-   ~ Igor Stravinsky
+   ~ Delia Owens
    
 - What I'm bopping to this week: 🎵
 
-   [**Uptown Girl**](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh?si=h31bGAZdSpqTiI5e3mP73g) by Billy Joel
+   [**53.49**](https://open.spotify.com/track/2alJKJoqOOEPVU1Do3eIjJ?si=7YnoyP60RMSnCZumkN-Vaw) by Childish Gambino
   
  - A cool thing I did this week: ✨
   
-    - Starting contributing to open source to help improve my coding skills and help some awesome orgs 🤝
-    - I also ate some really good ice cream, so that merits being in this section for this week too 🍨
+    - Completed the [Hacktoberfest challenge ☺](https://hacktoberfest.digitalocean.com/)
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
