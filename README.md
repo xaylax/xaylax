@@ -5,17 +5,18 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“Autumn leaves don't fall, they fly. They take their time and wander on this their only chance to soar.”
+   >“Nothing can stand in the way of the power of millions of voices calling for change.”
 
-   ~ Delia Owens
+   ~ Barack Obama
    
 - What I'm bopping to this week: 🎵
 
-   [**Long Tall Sally**](https://open.spotify.com/track/7ds98B8y5BQltzC60Gdkri?si=3hRAuoDVSLiGhMGr8jTsKw) by Little Richard (I like this version)
+   [**BOOGIE**](https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG?si=0maxiiuzSEmpqS9kP5W8eQ) by BROCKHAMPTON
   
  - A cool thing I did this week: ✨
   
-    - Completed the [Hacktoberfest challenge ☺](https://hacktoberfest.digitalocean.com/)
+    - Participated in my 9th [hackathon](https://devpost.com/software/salam-ql6ik0) this year and got to explore data visualization tools, Google Cloud Big Query and social      
+      network analysis!
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
