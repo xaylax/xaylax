@@ -11,7 +11,7 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
    
 - What I'm bopping to this week: 🎵
 
-   [**Modern Love**](https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG?si=0maxiiuzSEmpqS9kP5W8eQ) by David Bowie
+   [**Modern Love**](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5?si=C30i1MyHQgWm51KYTjMYIw) by David Bowie
   
  - A cool thing I did this week: ✨
   
