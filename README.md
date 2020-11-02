@@ -5,18 +5,17 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“Nothing can stand in the way of the power of millions of voices calling for change.”
+   >“I love a good nap. Sometimes it’s the only thing getting me out of bed in the morning”
 
-   ~ Barack Obama
+   ~ George Costanza
    
 - What I'm bopping to this week: 🎵
 
-   [**BOOGIE**](https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG?si=0maxiiuzSEmpqS9kP5W8eQ) by BROCKHAMPTON
+   [**Modern Love**](https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG?si=0maxiiuzSEmpqS9kP5W8eQ) by David Bowie
   
  - A cool thing I did this week: ✨
   
-    - Participated in my 9th [hackathon](https://devpost.com/software/salam-ql6ik0) this year and got to explore data visualization tools, Google Cloud Big Query and social      
-      network analysis!
+    - [Created a written text predictor](https://github.com/xaylax/Written-Text-Classification) 
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
