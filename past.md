@@ -176,3 +176,21 @@
  - A cool thing I did this week: ✨
   
     - Completed the [Hacktoberfest challenge ☺](https://hacktoberfest.digitalocean.com/)
+    
+    
+  ## Week xi- Oct 26-Nov 1
+  
+  - Quote of the week: 💡
+
+   >“Nothing can stand in the way of the power of millions of voices calling for change.”
+
+   ~ Barack Obama
+   
+- What I'm bopping to this week: 🎵
+
+   [**BOOGIE**](https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG?si=0maxiiuzSEmpqS9kP5W8eQ) by BROCKHAMPTON
+  
+ - A cool thing I did this week: ✨
+  
+    - Participated in my 9th [hackathon](https://devpost.com/software/salam-ql6ik0) this year and got to explore data visualization tools, Google Cloud Big Query and social      
+      network analysis!
