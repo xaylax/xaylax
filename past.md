@@ -194,3 +194,19 @@
   
     - Participated in my 9th [hackathon](https://devpost.com/software/salam-ql6ik0) this year and got to explore data visualization tools, Google Cloud Big Query and social      
       network analysis!
+      
+  ## Week xii- Nov 2-Nov 8
+  
+  - Quote of the week: 💡
+
+     >“I love a good nap. Sometimes it’s the only thing getting me out of bed in the morning”
+
+   ~ George Costanza
+   
+  - What I'm bopping to this week: 🎵
+
+   [**Modern Love**](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5?si=C30i1MyHQgWm51KYTjMYIw) by David Bowie 
+  
+  - A cool thing I did this week: ✨
+  
+    - [Created a written text predictor](https://github.com/xaylax/Written-Text-Classification) 
