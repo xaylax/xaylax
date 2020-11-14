@@ -210,3 +210,19 @@
   - A cool thing I did this week: ✨
   
     - [Created a written text predictor](https://github.com/xaylax/Written-Text-Classification) 
+    
+  ## Week xiii- Nov 9-Nov 15
+  
+  - Quote of the week: 💡
+
+   >“For every minute you are angry you lose sixty seconds of happiness.”
+
+   ~ Ralph Waldo Emerson
+   
+- What I'm bopping to this week: 🎵
+
+   [**Lifting You**](https://open.spotify.com/track/6DddRnq5NnVFjbyopAcRnq?si=geMmsWCFQIOF6kH4WZBKzQ) by N.E.R.D & Ed Sheeran
+  
+ - A cool thing I did this week: ✨
+  
+    - Finished my introduction to Conversational Japanese course! 🎎🎋🎌
