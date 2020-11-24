@@ -226,3 +226,19 @@
  - A cool thing I did this week: ✨
   
     - Finished my introduction to Conversational Japanese course! 🎎🎋🎌
+    
+ ## Week xiv- Nov 16-Nov 22
+ 
+ - Quote of the week: 💡
+
+   >“I don't know where I'm going from here, but I promise it won't be boring.”
+
+   ~ David Bowie
+   
+- What I'm bopping to this week: 🎵
+
+   [**Heybb!**](https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO?si=qTjOSiP1Qu-0zuHJu1VQ-A) by binki
+  
+ - A cool thing I did this week: ✨
+  
+    - Learned a lot about Lucene :) 
