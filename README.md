@@ -5,17 +5,17 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“I don't know where I'm going from here, but I promise it won't be boring.”
+   >““A friend to kill time is a friend sublime.”
 
-   ~ David Bowie
+   ~ Haruki Murakami
    
 - What I'm bopping to this week: 🎵
 
-   [**Heybb!**](https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO?si=qTjOSiP1Qu-0zuHJu1VQ-A) by binki
+   [**Do You Believe in Magic?**](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) by The Lovin' Spoonful
   
  - A cool thing I did this week: ✨
   
-    - Learned a lot about Lucene :) 
+    - Learned a whole lot about Java/Angular
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
