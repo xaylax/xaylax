@@ -5,7 +5,7 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >““A friend to kill time is a friend sublime.”
+   >“A friend to kill time is a friend sublime.”
 
    ~ Haruki Murakami
    
