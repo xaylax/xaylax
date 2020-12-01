@@ -242,3 +242,19 @@
  - A cool thing I did this week: ✨
   
     - Learned a lot about Lucene :) 
+    
+ ## Week xv- Nov 23-Nov 29
+    
+  - Quote of the week: 💡
+
+   >“A friend to kill time is a friend sublime.”
+
+   ~ Haruki Murakami
+   
+- What I'm bopping to this week: 🎵
+
+   [**Do You Believe in Magic?**](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) by The Lovin' Spoonful
+  
+ - A cool thing I did this week: ✨
+  
+    - Learned a whole lot about Java/Angular
