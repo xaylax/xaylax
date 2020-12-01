@@ -5,17 +5,17 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“A friend to kill time is a friend sublime.”
+   >“If they don't give you a seat at the table, bring a folding chair.”
 
-   ~ Haruki Murakami
+   ~ Shirley Chisholm
    
 - What I'm bopping to this week: 🎵
 
-   [**Do You Believe in Magic?**](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) by The Lovin' Spoonful
+   [**A-Punk**](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) by Vampire Weekend
   
  - A cool thing I did this week: ✨
   
-    - Learned a whole lot about Java/Angular
+    - Went cross-country skiing for the first time this season ❄
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
