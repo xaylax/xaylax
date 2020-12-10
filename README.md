@@ -5,7 +5,7 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“You can cut all the flowers but you cannot keep spring from coming.”
+   >“You can cut all the flowers but you cannot keep spring from coming.” 🌼💐🌻🌸🌷🌞🌈
 
    ~ Pablo Neruda
    
