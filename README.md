@@ -5,17 +5,17 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“If they don't give you a seat at the table, bring a folding chair.”
+   >“You can cut all the flowers but you cannot keep spring from coming.”
 
-   ~ Shirley Chisholm
+   ~ Pablo Neruda
    
 - What I'm bopping to this week: 🎵
 
-   [**A-Punk**](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) by Vampire Weekend
+   [**That's Life**](https://open.spotify.com/track/4dt6XKr0xKdPzjFhwB8dBm) by Mr. Sinatra
   
  - A cool thing I did this week: ✨
   
-    - Went cross-country skiing for the first time this season ❄
+    - [Became a Harvard WECode Tech Fellow!! 👧💻💕](https://www.harvardwecode.com/)
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
