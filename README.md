@@ -11,7 +11,7 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
    
 - What I'm bopping to this week: 🎵
 
-   [**That's Life**](https://open.spotify.com/track/4dt6XKr0xKdPzjFhwB8dBm) by Mr. Sinatra
+   [**That's Life**](https://open.spotify.com/track/4dt6XKr0xKdPzjFhwB8dBm) by Mr. Sinatra 🎎🦜📜♟👑
   
  - A cool thing I did this week: ✨
   
