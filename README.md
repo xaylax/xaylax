@@ -5,17 +5,17 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“You can cut all the flowers but you cannot keep spring from coming.” 🌼💐🌻🌸🌷🌞🌈
+   >“Someone's sitting in the shade today because someone planted a tree a long time ago” 
 
-   ~ Pablo Neruda
+   ~ Warren Buffett
    
 - What I'm bopping to this week: 🎵
 
-   [**That's Life**](https://open.spotify.com/track/4dt6XKr0xKdPzjFhwB8dBm) by Mr. Sinatra 🎎🦜📜♟👑
+   [**Just A Stranger**](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) by Kali Uchis
   
  - A cool thing I did this week: ✨
   
-    - [Became a Harvard WECode Tech Fellow!! 👧💻💕](https://www.harvardwecode.com/)
+    - finished my 2nd coop term 😢
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
