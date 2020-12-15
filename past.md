@@ -274,3 +274,20 @@
  - A cool thing I did this week: ✨
   
     - Went cross-country skiing for the first time this season ❄
+    
+    
+ ## Week xvii- Dec 7-Dec 13
+ 
+ - Quote of the week: 💡
+
+   >“You can cut all the flowers but you cannot keep spring from coming.” 🌼💐🌻🌸🌷🌞🌈
+
+   ~ Pablo Neruda
+   
+- What I'm bopping to this week: 🎵
+
+   [**That's Life**](https://open.spotify.com/track/4dt6XKr0xKdPzjFhwB8dBm) by Mr. Sinatra 🎎🦜📜♟👑
+  
+ - A cool thing I did this week: ✨
+  
+    - [Became a Harvard WECode Tech Fellow!! 👧💻💕](https://www.harvardwecode.com/)
