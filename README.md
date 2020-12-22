@@ -5,17 +5,17 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“Someone's sitting in the shade today because someone planted a tree a long time ago” 
+   >“There’s not a word yet for old friends who’ve just met.” 
 
-   ~ Warren Buffett
+   ~ Jim Henson
    
 - What I'm bopping to this week: 🎵
 
-   [**Just A Stranger**](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) by Kali Uchis
+   [**Waiting**](https://open.spotify.com/track/2r3vlVjJ6qNMvTxtyw8hNO) by LeMarquis
   
  - A cool thing I did this week: ✨
   
-    - finished my 2nd coop term 😢
+    - 
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
