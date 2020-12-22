@@ -291,3 +291,18 @@
  - A cool thing I did this week: ✨
   
     - [Became a Harvard WECode Tech Fellow!! 👧💻💕](https://www.harvardwecode.com/)
+    
+ ## Week xviii- Dec 14-Dec 20
+ - Quote of the week: 💡
+
+   >“Someone's sitting in the shade today because someone planted a tree a long time ago” 
+
+   ~ Warren Buffett
+   
+- What I'm bopping to this week: 🎵
+
+   [**Just A Stranger**](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) by Kali Uchis
+  
+ - A cool thing I did this week: ✨
+  
+    - finished my 2nd coop term 😢
