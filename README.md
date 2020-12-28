@@ -15,7 +15,7 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
   
  - A cool thing I did this week: ✨
   
-    - 
+    - Finished my intro to python course! [🐍](https://classroom.udacity.com/courses/ud1110)
           
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
