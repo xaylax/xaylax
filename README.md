@@ -5,18 +5,18 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“There’s not a word yet for old friends who’ve just met.” 
+   >“Be willing to be a beginner every single morning.”
 
-   ~ Jim Henson
+   ~ Meister Eckhart
    
 - What I'm bopping to this week: 🎵
 
-   [**Waiting**](https://open.spotify.com/track/2r3vlVjJ6qNMvTxtyw8hNO) by LeMarquis
+   [**Call**](https://open.spotify.com/track/0JP8f1tkrBCghepMnLoTyb) by WizTheMc
   
  - A cool thing I did this week: ✨
   
-    - Finished my intro to python course! [🐍](https://classroom.udacity.com/courses/ud1110)
-          
+    - tbd sunday
+    
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
 
