@@ -16,7 +16,6 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
  - A cool thing I did this week: ✨
   
     - tbd sunday
-    
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
 
