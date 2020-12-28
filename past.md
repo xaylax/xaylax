@@ -306,3 +306,18 @@
  - A cool thing I did this week: ✨
   
     - finished my 2nd coop term 😢
+    
+ ## Week xix- Dec 21-Dec 27
+ - Quote of the week: 💡
+
+   >“There’s not a word yet for old friends who’ve just met.” 
+
+   ~ Jim Henson
+   
+- What I'm bopping to this week: 🎵
+
+   [**Waiting**](https://open.spotify.com/track/2r3vlVjJ6qNMvTxtyw8hNO) by LeMarquis
+  
+ - A cool thing I did this week: ✨
+  
+    - Finished my intro to python course! [🐍](https://classroom.udacity.com/courses/ud1110)
