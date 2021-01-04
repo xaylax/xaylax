@@ -15,7 +15,7 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
   
  - A cool thing I did this week: ✨
   
-    - tbd sunday
+    - finished 2 courses on Python + Data Analysis using NumPy, Pandas, matplotlib + seaborn!
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
 
