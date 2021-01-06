@@ -5,17 +5,17 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 - Quote of the week: 💡
 
-   >“Be willing to be a beginner every single morning.”
+   >“We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special”
 
-   ~ Meister Eckhart
+   ~ Stephen Hawking
    
 - What I'm bopping to this week: 🎵
 
-   [**Call**](https://open.spotify.com/track/0JP8f1tkrBCghepMnLoTyb) by WizTheMc
+   [**Take It Or Leave It**](https://open.spotify.com/track/0J2OnBNKwt0KICDyDFPUvl) by The Strokes
   
  - A cool thing I did this week: ✨
   
-    - finished 2 courses on Python + Data Analysis using NumPy, Pandas, matplotlib + seaborn!
+    - started a machine learning internship at [Empathy Rocks](https://www.empathy.rocks/) during my school term
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
 
