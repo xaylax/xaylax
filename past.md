@@ -321,3 +321,19 @@
  - A cool thing I did this week: ✨
   
     - Finished my intro to python course! [🐍](https://classroom.udacity.com/courses/ud1110)
+    
+## Week xx- Dec 28- Jan 4
+
+- Quote of the week: 💡
+
+   >“Be willing to be a beginner every single morning.”
+
+   ~ Meister Eckhart
+   
+- What I'm bopping to this week: 🎵
+
+   [**Call**](https://open.spotify.com/track/0JP8f1tkrBCghepMnLoTyb) by WizTheMc
+  
+ - A cool thing I did this week: ✨
+  
+    - finished 2 courses on Python + Data Analysis using NumPy, Pandas, matplotlib + seaborn!
