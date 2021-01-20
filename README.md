@@ -18,7 +18,6 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
     - started a machine learning internship at [Empathy Rocks](https://www.empathy.rocks/) that I will be completing during my school term
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
-
 See past weeks [here](https://github.com/xaylax/xaylax/blob/master/past.md)
 
 ![](https://komarev.com/ghpvc/?username=xaylax)
