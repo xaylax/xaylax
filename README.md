@@ -21,3 +21,5 @@ I'm looking for Summer 2021 coops in **fullstack engineering, backend engineerin
 
 See past weeks [here](https://github.com/xaylax/xaylax/blob/master/past.md)
 
+![](https://komarev.com/ghpvc/?username=xaylax)
+
