@@ -1,8 +1,6 @@
 ### Hello fellow Githubber! 😊
 Welcome to my little corner of the internet where I work on bettering my craft! 🔨
 
-I'm looking for Summer 2021 coops in **fullstack engineering, backend engineering, machine/deep learning or cyber-security** 🌞🤖
-
 - Quote of the week: 💡
 
    >“We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special”
