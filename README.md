@@ -3,17 +3,17 @@ Welcome to my little corner of the internet where I work on bettering my craft! 
 
 - Quote of the week: 💡
 
-   >“We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special”
+   >“Behind all things are reasons. Reasons can even explain the absurd. Do we have the time to learn the reasons behind the human being's varied behavior? I think not. Some take the time.”
 
-   ~ Stephen Hawking
+   ~ Margaret Lanterman
    
 - What I'm bopping to this week: 🎵
 
-   [**Take It Or Leave It**](https://open.spotify.com/track/0J2OnBNKwt0KICDyDFPUvl) by The Strokes
+   [**SWEET**](https://open.spotify.com/track/2DgMxFMUQRPthW4ROhjen1?si=417d79f73a304a49) by BROCKHAMPTON
   
  - A cool thing I did this week: ✨
   
-    - started a machine learning internship at [Empathy Rocks](https://www.empathy.rocks/) that I will be completing during my school term
+    - finished a machine learning internship at [Empathy Rocks](https://www.empathy.rocks/)!
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
 See past weeks [here](https://github.com/xaylax/xaylax/blob/master/past.md)
