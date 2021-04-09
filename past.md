@@ -322,7 +322,7 @@
   
     - Finished my intro to python course! [🐍](https://classroom.udacity.com/courses/ud1110)
     
-## Week xx- Dec 28- Jan 4
+## Week xx- Dec 28- Jan 3
 
 - Quote of the week: 💡
 
@@ -337,3 +337,20 @@
  - A cool thing I did this week: ✨
   
     - finished 2 courses on Python + Data Analysis using NumPy, Pandas, matplotlib + seaborn!
+   
+## Week xxi - Jan 4-10
+- Quote of the week: 💡
+
+   >“We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special”
+
+   ~ Stephen Hawking
+   
+- What I'm bopping to this week: 🎵
+
+   [**Take It Or Leave It**](https://open.spotify.com/track/0J2OnBNKwt0KICDyDFPUvl) by The Strokes
+  
+ - A cool thing I did this week: ✨
+  
+    - started a machine learning internship at [Empathy Rocks](https://www.empathy.rocks/) that I will be completing during my school term
+
+😳 ~~ School Term Hiatus ~~ 😳
