@@ -354,3 +354,18 @@
     - started a machine learning internship at [Empathy Rocks](https://www.empathy.rocks/) that I will be completing during my school term
 
 😳 ~~ School Term Hiatus ~~ 😳
+
+## Week xxii - April 5-11
+- Quote of the week: 💡
+
+   >“Behind all things are reasons. Reasons can even explain the absurd. Do we have the time to learn the reasons behind the human being's varied behavior? I think not. Some take the time.”
+
+   ~ Margaret Lanterman
+   
+- What I'm bopping to this week: 🎵
+
+   [**SWEET**](https://open.spotify.com/track/2DgMxFMUQRPthW4ROhjen1?si=417d79f73a304a49) by BROCKHAMPTON
+  
+ - A cool thing I did this week: ✨
+  
+    - finished a machine learning internship at [Empathy Rocks](https://www.empathy.rocks/)!
