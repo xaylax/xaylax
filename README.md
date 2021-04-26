@@ -9,7 +9,7 @@ Welcome to my little corner of the internet where I work on bettering my craft! 
    
 - What I'm bopping to this week: 🎵
 
-   [**BANKROLL**](https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9?si=c2ceb6f78d6f43b1) by BROCKHAMPTON ft. A$AP Rocky & A$AP Ferg (tbh the entire Roadrunner album >>> 😫)
+   [**BANKROLL**](https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9?si=c2ceb6f78d6f43b1) by BROCKHAMPTON ft. A$AP Rocky & A$AP Ferg (to be honest the entire Roadrunner album >>> 😫)
   
  - A cool thing I did this week: ✨
   
