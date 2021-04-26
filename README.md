@@ -3,17 +3,17 @@ Welcome to my little corner of the internet where I work on bettering my craft! 
 
 - Quote of the week: 💡
 
-   >“Behind all things are reasons. Reasons can even explain the absurd. Do we have the time to learn the reasons behind the human being's varied behavior? I think not. Some take the time.”
+   >“It’s very easy to be number one: find the guy who is number one, and score one point higher than he does.”
 
-   ~ Margaret Lanterman
+   ~ Paul Kalanithi
    
 - What I'm bopping to this week: 🎵
 
-   [**SWEET**](https://open.spotify.com/track/2DgMxFMUQRPthW4ROhjen1?si=417d79f73a304a49) by BROCKHAMPTON
+   [**BANKROLL**](https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9?si=c2ceb6f78d6f43b1) by BROCKHAMPTON ft. A$AP Rocky & A$AP Ferg (tbh the entire Roadrunner album 😫)
   
  - A cool thing I did this week: ✨
   
-    - finished a machine learning internship at [Empathy Rocks](https://www.empathy.rocks/)!
+    - survived my exams and finished my 2A school term 🥳!
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
 See past weeks [here](https://github.com/xaylax/xaylax/blob/master/past.md)
