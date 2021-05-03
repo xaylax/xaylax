@@ -369,3 +369,19 @@
  - A cool thing I did this week: ✨
   
     - finished a machine learning internship at [Empathy Rocks](https://www.empathy.rocks/)!
+
+## Week xxiii - April 19-25
+
+- Quote of the week: 💡
+
+   >“It’s very easy to be number one: find the guy who is number one, and score one point higher than he does.”
+
+   ~ Paul Kalanithi
+   
+- What I'm bopping to this week: 🎵
+
+   [**BANKROLL**](https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9?si=c2ceb6f78d6f43b1) by BROCKHAMPTON ft. A$AP Rocky & A$AP Ferg (to be honest the entire Roadrunner album >>> 😫)
+  
+ - A cool thing I did this week: ✨
+  
+    - survived my exams and finished my 2A school term 🥳!
