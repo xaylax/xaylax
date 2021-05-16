@@ -3,17 +3,17 @@ Welcome to my little corner of the internet where I work on bettering my craft! 
 
 - Quote of the week: 💡
 
-   >“It’s very easy to be number one: find the guy who is number one, and score one point higher than he does.”
+   >“What lies behind you and what lies in front of you pales in comparison to what lies inside you.”
 
-   ~ Paul Kalanithi
+   ~ Ralph Waldo Emerson
    
 - What I'm bopping to this week: 🎵
 
-   [**BANKROLL**](https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9?si=c2ceb6f78d6f43b1) by BROCKHAMPTON ft. A$AP Rocky & A$AP Ferg (to be honest the entire Roadrunner album >>> 😫)
+   [**Photo ID (with Dominic Fike)**](https://open.spotify.com/track/7KLSUiscCgi3p3OQp43AiY?si=86f635acf5704b74) by Remi Wolf ft. Dominic Fike
   
  - A cool thing I did this week: ✨
   
-    - survived my exams and finished my 2A school term 🥳!
+    - Started a Data Analytics course!
 <img src="https://media.giphy.com/media/OqBJWrgeLouJqJBiJU/giphy.gif" width="4000" height="100" />
 
 See past weeks [here](https://github.com/xaylax/xaylax/blob/master/past.md)
