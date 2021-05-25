@@ -385,3 +385,18 @@
  - A cool thing I did this week: ✨
   
     - survived my exams and finished my 2A school term 🥳!
+
+## Week xxiv
+- Quote of the week: 💡
+
+   >“What lies behind you and what lies in front of you pales in comparison to what lies inside you.”
+
+   ~ Ralph Waldo Emerson
+   
+- What I'm bopping to this week: 🎵
+
+   [**Photo ID (with Dominic Fike)**](https://open.spotify.com/track/7KLSUiscCgi3p3OQp43AiY?si=86f635acf5704b74) by Remi Wolf ft. Dominic Fike
+  
+ - A cool thing I did this week: ✨
+  
+    - Started a Data Analytics course!
