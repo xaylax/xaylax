@@ -1,8 +1,6 @@
 ### Hello fellow Githubber! 😊
 Welcome to my little corner of the internet where I work on bettering my craft! 🔨
 
-- I'm currently looking for Summer 2023 internships in software engineering, data engineering or machine learning -- if you would like to discuss opportunities feel free to shoot me a message at **aorucevi@uwaterloo.ca** 💌
-
 - Through my 4 internship terms building customer-facing products, most recently at Whitehorse Liquidity Partners, a private equity firm, as a data analytics/engineering intern, I’ve been able to work both cross-collaboratively with various teams and independently to quickly ship reusable and robust software. I'm always looking for the next challenge and to improve in all things software engineering! 🌞
 
 - When I'm not learning about cool new tech, you can catch me obsessing over shibas, running, painting, french rap and s'mores 🍫
