@@ -1,7 +1,5 @@
 ### Hello! Glad you're here 😊
-<img src="https://media.giphy.com/media/ZBPzPhOF9N6tVh82yr/giphy.gif?cid=790b761183d42c7f018e0912ea67c46eca698c2537e6eaf9&rid=giphy.gif&ct=s" width="200" height="200" />
-
-<img src="https://giphy.com/embed/69bK4OX5RcklWMM69Z" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/animals-animal-aww-69bK4OX5RcklWMM69Z">via GIPHY</a></p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdiYnBtZ2Vka284d2ZzOXRrMTA4aWM1YW5kdWJ0eGwxZXJrenVtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EatwJZRUIv41G/giphy.gif" width="300" height="200" />
 
 ![](https://komarev.com/ghpvc/?username=xaylax&color=blueviolet&label=thanks+for+visiting!+😋)
 
